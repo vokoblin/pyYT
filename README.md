@@ -1,2 +1,2 @@
-# pyYT-SDK
+# pyYT
 Python YouTube SDK
